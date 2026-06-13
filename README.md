@@ -1,236 +1,195 @@
-<!-- 1. Animated Header Section -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=200&section=header&text=Abdelrahman%20Hassan&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Software%20Engineering%20Undergraduate&descAlignY=55&descAlign=62" alt="Header" />
-  <br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate;Data+%26+Database+Management;System+Optimization;Business+Intelligence" alt="Typing SVG" />
-  </a>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/🎓_B.Eng_Software_Engineering-UTM-7b2cbf?style=for-the-badge" alt="Degree" />
-    <img src="https://img.shields.io/badge/📍_Abu_Dhabi-UAE-9d4edd?style=for-the-badge" alt="Location" />
-  </p>
-  <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/Portfolio-282A36?style=for-the-badge&logo=About.me&logoColor=C77DFF" alt="Portfolio" /></a>
-    <a href="https://linkedin.com/in/abdelrahman"><img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=C77DFF" alt="LinkedIn" /></a>
-    <a href="mailto:Abdelrahman.alm23@gmail.com"><img src="https://img.shields.io/badge/Email-282A36?style=for-the-badge&logo=gmail&logoColor=C77DFF" alt="Email" /></a>
-    <a href="https://github.com/abdelrahman"><img src="https://img.shields.io/badge/GitHub-282A36?style=for-the-badge&logo=github&logoColor=C77DFF" alt="GitHub" /></a>
-  </p>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=abdelrahman&color=7b2cbf&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/abdelrahman?color=9d4edd&style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/abdelrahman?color=c77dff&style=for-the-badge&logo=github&label=STARS" alt="Stars" />
-  </p>
-</div>
-
----
-
-<!-- 2. About Section -->
-## 🌌 About Me
-
-Detail-oriented Software Engineering undergraduate combining a strong technical foundation in database management, data analysis, and software architecture with proven operational experience. Adept at rapid data validation, system optimization, and leveraging technical tools to enhance workflows.
-
-With a focus on building robust engineering solutions, my expertise spans across multiple domains:
-- **Software Engineering**: Applying rigorous technical principles to design and maintain efficient applications.
-- **Data & AI/ML Interest**: Utilizing R Programming, Probability and Statistical Data Analysis, and Business Intelligence to validate and extract insights from raw datasets.
-- **Full Stack Development**: Bridging frontend architectures (HTML/CSS, JavaScript) with powerful backend systems (Java, C++, PHP).
-- **Product Engineering Mindset**: Emphasizing precise data handling, rapid optimization, and strategic project management to drive complete operational success.
-
-**Open To:** Seeking a dynamic role where I can apply my software engineering knowledge, precise data handling, and strong organizational skills to drive operational efficiency and project success.
-
----
-
-<!-- 3. Tech Stack Section -->
-## 🛠 Tech Stack
-
-### Languages
-<p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cpp,js,php,r,html,css" alt="Languages" /></a>
-</p>
-
-### Backend & Databases
-<p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Backend and Databases" /></a>
-</p>
-
-### Cloud, DevOps & Tooling
-<p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,githubactions,linux" alt="Tools" /></a>
-</p>
-*(Proficient in JIRA, Agile/Scrum Methodologies, Tableau, Power BI, Alteryx)*
-
----
-
-<!-- 4. AI/ML Expertise Section -->
-## 🧠 Data & Analytics Expertise
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Data Warehousing & DBs** | Advanced | SQL (DDL, DML), NoSQL, Rapid Data Validation. |
-| **Business Intelligence** | Intermediate | Tableau, Power BI, Alteryx. |
-| **Statistical Analysis** | Intermediate | R Programming, Probability and Statistical Data Analysis. |
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abdelrahman%20Hassan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%40%20UTM%20Malaysia&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&height=50&color=A78BFA&lines=Software+Engineering+Student;Learning+Full-Stack+%26+Database+Development;Exploring+Software+Architecture+%26+Design+Patterns;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![University](https://img.shields.io/badge/University-UTM%20Malaysia-6D28D9?style=for-the-badge)
+![Program](https://img.shields.io/badge/Program-Software%20Engineering-7C3AED?style=for-the-badge)
+![Location](https://img.shields.io/badge/Based%20in-Abu%20Dhabi%2C%20UAE-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-Abdelrahman.alm23%40gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Abdelrahman.alm23@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-BODIGAMER555-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BODIGAMER555)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL) -->
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL) -->
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=BODIGAMER555&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/BODIGAMER555?style=for-the-badge&color=8B5CF6&labelColor=1a1b27&label=FOLLOWERS)
 
 </div>
 
+<br/>
+
 ---
 
-<!-- 5. Featured Projects Section -->
+## 👋 About Me
+
+I'm a Software Engineering undergraduate at **Universiti Teknologi Malaysia (UTM)**, pursuing a Bachelor's degree with Honours (expected **2028**). My coursework spans the core software engineering lifecycle — programming fundamentals, database design, software architecture & design patterns, requirements engineering, and cross-platform application development.
+
+- 🎓 Currently building a foundation in **OOP, SQL/Database Design, UML, and Software Architecture**
+- 🛠️ Working through hands-on coursework projects — first public repos coming soon
+- 🤝 Strong foundation in **communication, teamwork, and project coordination**, sharpened through real-world event organization and a student-run business project
+- 🌍 Based in Abu Dhabi, UAE · Studying in Malaysia
+- 🗣️ Arabic (Native) · English (Fluent)
+
+### 🎯 Open To
+
+![Internships](https://img.shields.io/badge/-Internships-1a1b27?style=for-the-badge&color=2D1B4E&labelColor=1a1b27)
+![Collaborations](https://img.shields.io/badge/-Collaborations-1a1b27?style=for-the-badge&color=2D1B4E&labelColor=1a1b27)
+![Study%20Groups](https://img.shields.io/badge/-Study%20Groups-1a1b27?style=for-the-badge&color=2D1B4E&labelColor=1a1b27)
+![Mentorship](https://img.shields.io/badge/-Mentorship-1a1b27?style=for-the-badge&color=2D1B4E&labelColor=1a1b27)
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Currently using / learning through coursework**
+
+![Skills](https://skillicons.dev/icons?i=git,github,mysql,vscode&theme=dark)
+
+<!--
+  Add your core programming languages here once confirmed, e.g.:
+  ![Skills](https://skillicons.dev/icons?i=java,c,python,js,html,css&theme=dark)
+-->
+
+**Design & Modelling**
+
+![Skills](https://skillicons.dev/icons?i=figma&theme=dark)
+<!-- Visual Paradigm (UML/design patterns) doesn't have a skill icon, but is part of coursework -->
+
+---
+
+## 📚 Coursework Focus
+
+| Area | Course(s) | Topics Covered |
+|---|---|---|
+| **Programming Foundations** | Fundamental & Advanced Programming | OOP, data structures, problem-solving, Git-based code review |
+| **Databases** | Database Engineering | ER modeling, normalization, SQL, DBMS design & development |
+| **Software Architecture** | Software Design & Architecture | UML, design patterns, architectural styles, detailed design |
+| **Requirements & Modelling** | Requirements Engineering & Software Modelling | Requirements analysis, software modelling techniques |
+| **Applied Development** | Application Development Project · Cross-Platform Application Development | End-to-end project lifecycle: proposal → interim → final demo |
+| **Systems & Networks** | Computer Organization & Architecture · Network Communications | Low-level systems, computer architecture, networking fundamentals |
+
+---
+
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>☕ Coffee Stall Project (Business Class Assignment)</b></summary>
+<summary><b>📁 Project 1 — [PLACEHOLDER: Add title]</b></summary>
 <br>
 
-> Led the strategic planning, daily logistics, and operation of a university coffee stall.
+| | |
+|---|---|
+| **Description** | _To be added_ |
+| **Stack** | _To be added_ |
+| **Repository** | _To be added_ |
 
-| Attribute | Details |
-| :--- | :--- |
-| **Stack** | Financial Models, Budgeting Tools, Business Logistics |
-| **Scale** | Campus-wide promotional campaigns |
-| **Performance** | Optimized pricing strategy and tracked sales revenue |
-| **Security** | Accurate administration and secure supply coordination |
-| **Impact** | Maximized customer attraction through executed campaigns |
-| **Repository** | `Private Enterprise Repo` |
-
-**Professional Overview:** Managed critical administrative tasks including budgeting, pricing strategy, and tracking sales revenue. Coordinated supply purchases and executed campus-wide promotional campaigns to maximize customer attraction.
 </details>
 
 <details>
-<summary><b>📊 Enterprise Database System</b></summary>
+<summary><b>📁 Project 2 — [PLACEHOLDER: Add title]</b></summary>
 <br>
 
-> Academic implementation of core database engineering and business intelligence principles.
+| | |
+|---|---|
+| **Description** | _To be added_ |
+| **Stack** | _To be added_ |
+| **Repository** | _To be added_ |
 
-| Attribute | Details |
-| :--- | :--- |
-| **Stack** | SQL, Data Warehousing, NoSQL, Java |
-| **Scale** | University-level architectural project |
-| **Performance** | System optimization and rapid data validation |
-| **Security** | Data entry validation and integrity checks |
-| **Impact** | Process optimization and database structuring |
-| **Repository** | `Confidential Academic Repo` |
-
-**Professional Overview:** Developed core architectures utilizing Database Engineering and Software Requirements Engineering principles. Leveraged technical tools to enhance workflows and ensure precise data handling.
 </details>
 
----
-
-<!-- 6. Experience Section -->
-## 💼 Professional Experience
-
-### Promoter & Registration Handler | Al Dar Ramadan Draw Event
-**March 2025**
-*Handled customer registration efficiently, accurately entering participant data into the digital tracking system.*
-- Promoted the event by actively engaging with customers and thoroughly explaining the draw details and prizes.
-- Maintained a visually appealing booth and managed high volumes of customer interactions in a fast-paced environment.
-> **Tags:** `Accurate Data Entry` `Customer Interaction` `Fast-paced Environment`
-
-### Project Lead | Coffee Stall Project
-**October 2022**
-*Led the strategic planning, daily logistics, and operation of a university coffee stall.*
-- Managed critical administrative tasks including budgeting, pricing strategy, and tracking sales revenue.
-- Coordinated supply purchases and executed campus-wide promotional campaigns to maximize customer attraction.
-> **Tags:** `Logistics Coordination` `Strategic Planning` `Budgeting`
+> 💡 Once your course projects are pushed to GitHub, replace the placeholders above with the project name, a short description, the tech stack, and a link to the repo.
 
 ---
 
-<!-- 7. Achievements Section -->
-## 🏆 Achievements & Education
+## 📊 GitHub Analytics
 
 <div align="center">
 
-| Recognition / Degree | Details |
-| :--- | :--- |
-| **Bachelor in Software Engineering With Honours** | University of Technology Malaysia (UTM) | Expected Graduation: 2028 |
-| **High School Diploma** | Al Nahda National School, UAE | Graduated 2022 |
-| **Core Competencies** | Process Optimization, Problem Solving, Organization, Teamwork |
+<img src="https://github-readme-stats.vercel.app/api?username=BODIGAMER555&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BODIGAMER555&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BODIGAMER555&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" width="48%"/>
 
 </div>
 
 ---
 
-<!-- 8. Certifications Section -->
-## 📜 Certifications
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-(InProgress)?style=for-the-badge&logo=amazon-aws&logoColor=white&color=7b2cbf" alt="AWS" />
-  <img src="https://img.shields.io/badge/Oracle-Certified_Associate-(InProgress)?style=for-the-badge&logo=oracle&logoColor=white&color=9d4edd" alt="Oracle" />
-  <img src="https://img.shields.io/badge/NPTEL-Software_Engineering-(InProgress)?style=for-the-badge&color=c77dff" alt="NPTEL" />
-  <img src="https://img.shields.io/badge/Cisco-CCNA-(InProgress)?style=for-the-badge&logo=cisco&logoColor=white&color=e0aaff" alt="Cisco" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=BODIGAMER555&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=10"/>
+
 </div>
 
 ---
 
-<!-- 9. Coding Profiles Section -->
-## 💻 Coding Profiles
+## 📈 Contribution Activity
 
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Profile-7b2cbf?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-9d4edd?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-c77dff?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-e0aaff?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BODIGAMER555&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=ffffff" width="100%"/>
 
 ---
 
-<!-- 10. GitHub Analytics Section -->
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelrahman&show_icons=true&theme=tokyonight&hide_border=true&ring_color=7b2cbf" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahman&theme=tokyonight&hide_border=true&ring=7b2cbf&fire=c77dff" alt="GitHub Streak" width="48%" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
-</div>
-
----
-
-<!-- 11. GitHub Trophies Section -->
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdelrahman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</div>
-
----
-
-<!-- 12. Contribution Activity Section -->
-## 📊 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelrahman&theme=tokyo-night&hide_border=true&point=7b2cbf&line=c77dff" alt="Activity Graph" />
-</div>
-
----
-
-<!-- 13. Contribution Snake Section -->
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abdelrahman/abdelrahman/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
+<img src="https://raw.githubusercontent.com/BODIGAMER555/BODIGAMER555/output/github-contribution-grid-snake.svg" width="100%"/>
+
+<!--
+  This animated snake requires a one-time GitHub Actions setup on your profile repo.
+  Setup guide: https://github.com/Platane/snk
+  Until set up, this image will appear broken/blank — that's expected.
+-->
 
 ---
 
-<!-- 14. Current Focus Section -->
 ## 🎯 Current Focus
 
 ```yaml
-Learning:
-  - Software Requirements Engineering
-  - Operating Systems
-  - Advanced Business Intelligence Tooling
+current_focus:
+  learning:
+    - "Software Architecture & Design Patterns"
+    - "Cross-Platform Application Development"
+    - "Database Design & Optimization"
+  building:
+    - "First public projects — coming soon"
+  exploring:
+    - "Full-Stack Web Development"
+    - "Clean Code & UML Modelling"
+  open_to:
+    - "Internships"
+    - "Collaborative student projects"
+    - "Mentorship & study groups"
+```
 
-Building:
-  - System optimization architectures
-  - Rapid data validation tools
+---
 
-Exploring:
-  - NoSQL Database scaling
-  - Data Warehousing integrations
+## 📫 Connect With Me
 
-Open To:
-  - Dynamic roles applying software engineering
-  - Data handling and process optimization positions
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Abdelrahman.alm23@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BODIGAMER555)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL) -->
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL) -->
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*"Every project is a step toward becoming the engineer I want to be."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div>
